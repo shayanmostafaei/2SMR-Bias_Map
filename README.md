@@ -29,7 +29,6 @@ We organize the project around major bias clusters:
   - one output folder
   - one short README describing the data-generating mechanism
 - Every figure should be reproducible from code stored in this repository
-- Every major manuscript claim linked to simulation should point to a script and output directory
 
 ## Main workflow
 
@@ -38,8 +37,7 @@ We organize the project around major bias clusters:
 3. Choose comparison methods
 4. Run simulations
 5. Create figure panels
-6. Update manuscript text and Table 1
-7. Record limitations and next-step issues
+6. Record limitations and next-step issues
 
 ## Planned simulation roadmap
 
