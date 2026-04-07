@@ -1,0 +1,34 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user
+
+# macOS
+.DS_Store
+
+# Output files
+*.pdf
+*.png
+*.jpeg
+*.jpg
+*.tiff
+*.csv
+*.rds
+*.RDS
+
+# Word temp files
+~$*.docx
+
+# Logs
+*.log
+
+# Python just in case
+__pycache__/
+*.pyc
+
+# Quarto / knitr intermediates
+*_files/
+.cache/
