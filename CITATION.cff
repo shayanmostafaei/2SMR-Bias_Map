@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "2SMR Bias Map"
+message: "If you use this repository, please cite the associated manuscript when available."
+type: software
+authors:
+  - family-names: "Mostafaei"
+    given-names: "Shayan"
+repository-code: "https://github.com/shayanmostafaei/2smr-bias-map"
+license: "MIT"
