@@ -25,10 +25,6 @@
 # Logs
 *.log
 
-# Python just in case
-__pycache__/
-*.pyc
-
 # Quarto / knitr intermediates
 *_files/
 .cache/
