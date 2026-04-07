@@ -69,6 +69,6 @@ If you use material from this repository, please cite the associated manuscript 
 
 ## Contact
 
-Maintainer: Shayan Mostafaei
+Maintainer: Dr. Shayan Mostafaei
 Contributors: Ali Taghavi Rad
-GitHub: https://github.com/shayanmostafaei      
+GitHub: https://github.com/shayanmostafaei     https://github.com/AliTaghavirad 
