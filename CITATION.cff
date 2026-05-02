@@ -1,9 +1,27 @@
 cff-version: 1.2.0
 title: "2SMR Bias Map"
-message: "If you use this repository, please cite the associated manuscript when available."
+message: "If you use this repository, please cite the associated manuscript and repository."
 type: software
 authors:
   - family-names: "Mostafaei"
     given-names: "Shayan"
-repository-code: "https://github.com/shayanmostafaei/2smr-bias-map"
+  - family-names: "Taghavi Rad"
+    given-names: "Ali"
+repository-code: "https://github.com/shayanmostafaei/2SMR-Bias_Map"
+abstract: >
+  Simulation code, figures, and supporting materials for a bias-aware framework
+  on the credibility of two-sample Mendelian randomization (2SMR), emphasizing
+  bias-to-method matching across major validity domains.
+keywords:
+  - Mendelian randomization
+  - two-sample Mendelian randomization
+  - GWAS
+  - pleiotropy
+  - participant overlap
+  - weak instruments
+  - winner's curse
+  - population mismatch
+  - family structure
 license: "MIT"
+version: "0.1.0"
+date-released: "2026-04-07"
